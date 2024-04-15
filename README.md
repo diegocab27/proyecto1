@@ -10,7 +10,7 @@ En este proyecto se logra realiza un sistema de costo para un producto donde se 
 * [1. Planteamiento](#Planteamiento)
 * [2. Requerimientos](#Requerimientos)
 * [3. Solución explicada paso a paso](#Solución-explicada-paso-a-paso)
-* [3.1 Se declaran las variables que se utilizaran](Se-declaran-las-variables-que-se-utilizaran)
+* [3.1 Se declaran las variables que se utilizaran](#Se-declaran-las-variables-que-se-utilizaran)
 
 
 
@@ -30,7 +30,7 @@ Construir un algoritmo en pseudocódigo que simule un sistema para calcular el c
 
 ## Solución explicada paso a paso
 
-1. Se declaran las variables que se utilizaran
+#### 1. Se declaran las variables que se utilizaran
 
 - `preciociudad,ciudad` son arreglos unidimensionales los cuales contienen los valores de costo de envio para 
        cada ciudad
