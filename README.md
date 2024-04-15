@@ -3,7 +3,7 @@
 
 # PROYECTO 1: Algoritmo de Sistema de Costos
 
-## Authors
+## Autor
 - [@diegocab27](https://www.github.com/diegocab27)
 
 En este proyecto se logra realiza un sistema de costo para un producto donde se aplican descuentos,impuesto y costos de envio.
