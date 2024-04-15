@@ -30,7 +30,7 @@ Construir un algoritmo en pseudocódigo que simule un sistema para calcular el c
 
 ## Solución explicada paso a paso
 
-1. Se declaran las variables que se utilizaran
+###1. Se declaran las variables que se utilizaran
 
 - `preciociudad,ciudad` son arreglos unidimensionales los cuales contienen los valores de costo de envio para 
        cada ciudad
