@@ -11,15 +11,15 @@ En este proyecto se logra realiza un sistema de costo para un producto donde se 
 * [2. Requerimientos](#Requerimientos)
 * [3. Solución explicada paso a paso](#Solución-explicada-paso-a-paso)
 * * [3.1. Se declaran las variables que se utilizaran](#1-se-declaran-las-variables-que-se-utilizaran)
-* [3.2. Se solicita ingresar el precio original del producto](#2-Se-solicita-ingresar-el-precio-original-del-producto)
-* [3.3. Se solicita ingresar al cliente el cupon de descuento ](#3-Se-solicita-ingresar-al-cliente-el-cupon-de-descuento)
-* [3.4. Se solicita ingresar el iva , la cantidad y el peso del paquete](#4-Se-solicita-ingresar-el-iva-,-la-cantidad-y-el-peso-del-paquete)
-* [3.5. Se solicita ingresar la ciudad de destino](#5-Se-solicita-ingresar-la-ciudad-de-destino)
-* [3.6. Calculo de cupon de descuento y iva ](#6-Calculo-de-cupon-de-descuento-y-iva)
-* [3.7. Calculo de descuento por cantidad](#7-Calculo-de-descuento-por-cantidad)
-* [3.8. Calculo de valor de envio](#8-Calculo-de-valor-de-envio)
-* [3.9. Calculo de costo total](#9-Calculo-de-costo-total)
-* [3.10. Solucion final](#10-Solucion-final)
+* * [3.2. Se solicita ingresar el precio original del producto](#2-Se-solicita-ingresar-el-precio-original-del-producto)
+* * [3.3. Se solicita ingresar al cliente el cupon de descuento ](#3-Se-solicita-ingresar-al-cliente-el-cupon-de-descuento)
+* * [3.4. Se solicita ingresar el iva ,cantidad y el peso del paquete](#4-Se-solicita-ingresar-el-iva-,cantidad-y-el-peso-del-paquete)
+* * [3.5. Se solicita ingresar la ciudad de destino](#5-Se-solicita-ingresar-la-ciudad-de-destino)
+* * [3.6. Calculo de cupon de descuento y iva ](#6-Calculo-de-cupon-de-descuento-y-iva)
+* * [3.7. Calculo de descuento por cantidad](#7-Calculo-de-descuento-por-cantidad)
+* * [3.8. Calculo de valor de envio](#8-Calculo-de-valor-de-envio)
+* * [3.9. Calculo de costo total](#9-Calculo-de-costo-total)
+* * [3.10. Solucion final](#10-Solucion-final)
 
 ## Planteamiento
 
@@ -96,7 +96,7 @@ Leer precio
 	    Fin Si	
 ```		
 
-#### 4. Se solicita ingresar el iva , la cantidad y el peso del paquete
+#### 4. Se solicita ingresar el iva ,cantidad y el peso del paquete
 
 - Se muestra en pantalla que ingrese el iva 
 - Se lee el iva y se guarda en la variable `iva` 
