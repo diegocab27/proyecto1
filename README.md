@@ -19,7 +19,7 @@ En este proyecto se logra realiza un sistema de costo para un producto donde se 
 * * [3.7. Calculo de descuento por cantidad](#7-Calculo-de-descuento-por-cantidad)
 * * [3.8. Calculo de valor de envio](#8-Calculo-de-valor-de-envio)
 * * [3.9. Calculo de costo total](#9-Calculo-de-costo-total)
-* [4.Solucion final](#Solucion-final)
+* [4. Solucion final](#Solucion-final)
 
 ## Planteamiento
 
